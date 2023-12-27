@@ -50,4 +50,14 @@
     }
 }
 
+    .btn-primary:hover {
+        color: black;
+    }
+
+    .btn-outline-primary:hover {
+        color: black;
+    }
+
+
+
 
